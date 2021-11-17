@@ -74,10 +74,10 @@ header {
   /*Hero Style Start */
   .hero {
     background-image: url("../images/hero-bg.jpeg");
-    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    height: 600px;
   }
 
   .hero-form {
